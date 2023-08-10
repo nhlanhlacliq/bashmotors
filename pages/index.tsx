@@ -47,9 +47,9 @@ const Home: NextPage = () => {
         </div>
       </div>
       <div className="absolute top-[30.25rem] left-[8.56rem] text-[0.88rem] tracking-[0.22em] inline-block w-[11.13rem] opacity-[0.8]">
-        <p className="m-0">6807 Mount Kenya Street</p>
-        <p className="m-0">Clayville, Ext 45</p>
-        <p className="m-0">Midrand</p>
+        <p className="m-0">Cnr Brand Rd & Swart Dr,</p>
+        <p className="m-0">President Park AH,</p>
+        <p className="m-0">Midrand, 1685</p>
       </div>
       <img
         className="absolute top-[31.5rem] left-[4.19rem] w-[2rem] h-[1.77rem] opacity-[0.8]"
