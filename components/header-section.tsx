@@ -2,7 +2,7 @@ import type { NextPage } from "next";
 
 const HeaderSection: NextPage = () => {
   return (
-    <div className="self-stretch h-[115px] flex flex-col items-start justify-start text-left text-5xl text-white font-rubik-one">
+    <div className="self-stretch h-[115px] flex flex-col items-center justify-center text-center text-5xl text-white font-rubik-one">
       <div className="self-stretch flex flex-row py-0 px-[111px] items-center justify-between">
         <div className="relative w-[229.75px] h-[115px]">
           <div className="absolute top-[37px] left-[72.75px] tracking-[0.22em] inline-block w-[157px] h-[41px]">
