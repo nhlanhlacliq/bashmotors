@@ -6,6 +6,7 @@ const HeaderSection: NextPage = () => {
       <div className="self-stretch flex flex-row py-0 px-[111px] items-center justify-between">
         <div className="relative w-[229.75px] h-[115px]">
           <div className="absolute top-[37px] left-[72.75px] tracking-[0.22em] inline-block w-[157px] h-[41px]">
+            
             MOTOR’S
           </div>
           <img
